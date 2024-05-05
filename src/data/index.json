@@ -1,0 +1,220 @@
+{
+  "experiences": [
+    {
+      "designation": "Lead Technology",
+      "company": "Synechron",
+      "duration": "Sept 2023 - Jan 2024",
+      "description": "Proactively liaised with the design team and project manager to ensure efficient and timely delivery of significant projects. Analyzed existing web applications and identified opportunities to enhance functionality and improve the user experience."
+    },
+    {
+      "designation": "Full Stack Engineer",
+      "company": "Wing Assistant",
+      "duration": "May 2022 - May 2023",
+      "description": "Proficiently troubleshot simple and complex technological issues for different assigned projects, achieving over 95% customer satisfaction rate. Enhanced the application's features to effectively fix the bugs and optimize the overall performance, reliability, and efficiency."
+    },
+    {
+      "designation": "Software Engineer",
+      "company": "Kritikal Solutions",
+      "duration": "May 2021 - May 2022",
+      "description": "Analysing user requirements, Developed front-end and back-end both of the web applications and Designing and developing APIs"
+    },
+    {
+      "designation": "Software Engineer",
+      "company": "Sigma Infosolutions Ltd",
+      "duration": "Nov 2019 - Dec 2020",
+      "description": "Developed full-stack web applications which processed, analyzed, and rendered data visually. Managed time-sensitive updates, including content changes and database upgrades"
+    },
+    {
+      "designation": "PHP Developer",
+      "company": "Complyindia Tech Services Pvt Ltd",
+      "duration": "Mar 2018 - Nov 2019",
+      "description": "Developing new requirements of the product and deploying on server. Creating servers and databases for functionality"
+    }
+  ],
+  "services": [
+    {
+      "title": "Web Development",
+      "description": "",
+      "className": "fa fa-laptop-code"
+    },
+    {
+      "title": "API Develeopment",
+      "description": "",
+      "className": "fab fa-android"
+    },
+    {
+      "title": "Front End Developemt",
+      "description": "",
+      "className": "fa fa-search"
+    },
+    {
+      "title": "Back End Development",
+      "description": "",
+      "className": "fa fa-edit"
+    }
+  ],
+  "projects": [
+    {
+      "imgName": "portfolio-1.jpg",
+      "imgPath": "cv/img/portfolio-1.jpg",
+      "imgLink": "https://vue-http-demo-7aacd.web.app/coaches",
+      "isBackend": false
+    },
+    {
+      "imgName": "portfolio-2.jpg",
+      "imgPath": "cv/img/portfolio-2.jpg",
+      "imgLink": "https://getwingapp.com/",
+      "isBackend": true
+    },
+    {
+      "imgName": "portfolio-3.jpg",
+      "imgPath": "cv/img/portfolio-3.jpg",
+      "imgLink": "https://usha-web.azurewebsites.net/",
+      "isBackend": false
+    },
+    {
+      "imgName": "portfolio-4.jpg",
+      "imgPath": "cv/img/portfolio-4.jpg",
+      "imgLink": "https://byjuselevate.com/",
+      "isBackend": true
+    }
+  ],
+  "testimonials": [
+    {
+      "client_name": "Client name",
+      "client_image": "cv/img/testimonial-1.jpg",
+      "profession": "Profession",
+      "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "client_name": "Client name",
+      "client_image": "cv/img/testimonial-2.jpg",
+      "profession": "Profession",
+      "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "client_name": "Client name",
+      "client_image": "cv/img/testimonial-3.jpg",
+      "profession": "Profession",
+      "testimonial": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    }
+  ],
+  "skills": [
+    {
+      "className": "bg-primary",
+      "min": 0,
+      "duration": 8,
+      "max": 85,
+      "countupText": "Bootstrap"
+    },
+    {
+      "className": "bg-primary",
+      "min": 0,
+      "duration": 8,
+      "max": 90,
+      "countupText": "JavaScript"
+    },
+    {
+      "className": "bg-warning",
+      "min": 0,
+      "duration": 8,
+      "max": 60,
+      "countupText": "TypeScript"
+    },
+    {
+      "className": "bg-info",
+      "min": 0,
+      "duration": 8,
+      "max": 85,
+      "countupText": "React.js"
+    },
+    {
+      "className": "bg-info",
+      "min": 0,
+      "duration": 8,
+      "max": 85,
+      "countupText": "Vue.js"
+    },
+    {
+      "className": "bg-info",
+      "min": 0,
+      "duration": 8,
+      "max": 85,
+      "countupText": "Node.js"
+    },
+    {
+      "className": "bg-info",
+      "min": 0,
+      "duration": 8,
+      "max": 85,
+      "countupText": "Express.js"
+    },
+    {
+      "className": "bg-secondary",
+      "min": 0,
+      "duration": 8,
+      "max": 75,
+      "countupText": "MongoDB"
+    },
+    {
+      "className": "bg-primary",
+      "min": 0,
+      "duration": 8,
+      "max": 90,
+      "countupText": "PHP"
+    },
+    {
+      "className": "bg-primary",
+      "min": 0,
+      "duration": 8,
+      "max": 90,
+      "countupText": "Laravel"
+    },
+    {
+      "className": "bg-primary",
+      "min": 0,
+      "duration": 8,
+      "max": 90,
+      "countupText": "MySql"
+    },
+    {
+      "className": "bg-info",
+      "min": 0,
+      "duration": 8,
+      "max": 80,
+      "countupText": "GIT"
+    },
+    {
+      "className": "bg-info",
+      "min": 0,
+      "duration": 8,
+      "max": 80,
+      "countupText": "Bitbucket"
+    },
+    {
+      "className": "bg-danger",
+      "min": 0,
+      "duration": 8,
+      "max": 45,
+      "countupText": "Docker"
+    }
+  ],
+  "myDetails": {
+    "personal": {
+      "Name": "Animesh Kumar",
+      "Birthday": "19 April 1995",
+      "Degree": "BE (Computer Science)",
+      "Experience": "5+ Years",
+      "Phone": "+917767985032",
+      "Email": "kumar.animesh303@gmail.com",
+      "Address": "Rajendra Nagar, Khagaria, IN"
+    },
+    "About Me": "I'm a motivated full-stack web developer, specializing in PHP, Laravel, and Vue.js with experience building scalable applications across diverse domains. Proficient in developing databases, creating user interfaces, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback. As a team lead, I've managed teams, aided developers in problem-solving, and am passionate about collaborative techniques fostering team growth and superior product development. I value clean, scalable code, participate in code reviews, and aim for long-term solutions.",
+    "Skill Heading": "I am a full stack developer, specialize mainly in backend technologies. I know PHP and Laravel framework very well, also working on frontend with Vue.js framework. I take care of details and high code quality, using tools that help to format and analyze application code. Some of my skills are PHP, Laravel, JavaScript ES6, Vue.js, Vuetify, MySQL, graphQl, Vue Apollo.Others: Linux, Docker, VPS Server Amazon Web Services (AWS), Digitalocean, Git, REST API, Agile/Scrum.Having remote job experience.",
+    "Having experience on": "Bootstrap (4 years), JavaScript (5 years), React JS (3 years), Node JS (3 years), Express JS (3 years), MongoDB(3 years) PHP (5 years), Laravel (5 years), MySQL (5 years), Vue JS (3 years)",
+    "Job": "Looking for new Opportunity",
+    "Notice Period": "Immediate Joiner",
+    "Freelance": "Available"
+  },
+  "cvFileName": "Animesh_Kumar_P_Full_Stack_Engineer.pdf"
+}
